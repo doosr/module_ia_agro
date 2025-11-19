@@ -178,9 +178,9 @@ module_ia/
 
 ## 🧠 Entraînement du Modèle
 
-### Script `train_model.py`
+### Script `train.py`
 
-Créer le fichier **`train_model.py`** :
+Créer le fichier **`train.py`** :
 ```python
 import tensorflow as tf
 from tensorflow import keras
