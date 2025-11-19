@@ -82,7 +82,7 @@ ESP32-CAM → [Photo] → Module IA (Flask:5001) → [Analyse] → Backend Node.
 
 ### 1. Cloner le Dépôt
 ```bash
-git clone https://github.com/votre-projet/module_ia.git
+git clone https://github.com/doosr/module_ia_agro.git
 cd module_ia
 ```
 
